@@ -1,0 +1,16 @@
+{
+  "name": "debugging",
+  "version": "1.0.0",
+  "description": "Node.js example server starter project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": [],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
